@@ -1,0 +1,770 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 19 1438 682" width="1438" height="682">
+  <svg version="1.1" id="p0_Ebene_1" x="720.0" y="315.0" width="135.0" height="225.0" viewBox="0 0 108 180" enable-background="new 0 0 108 180" xml:space="preserve">
+    <g id="p0_schematic">
+      <rect x="14.85" y="14.85" fill="#FFFFFF" stroke="#000000" stroke-width="0.3175" stroke-linecap="round" width="78.3" height="150.3" />
+      <line id="p0_connector61pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="28.8" x2="107.65" y2="28.8" />
+      <text transform="matrix(1 0 0 1 82.2441 29.5)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D0/RX</text>
+      <rect id="p0_connector61terminal" x="107.65" y="28.45" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector62pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="36" x2="107.65" y2="36" />
+      <text transform="matrix(1 0 0 1 82.4922 36.6992)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D1/TX</text>
+      <rect id="p0_connector62terminal" x="107.65" y="35.65" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector63pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="43.2" x2="107.65" y2="43.2" />
+      <text transform="matrix(1 0 0 1 87.5273 43.9004)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D2</text>
+      <rect id="p0_connector63terminal" x="107.65" y="42.85" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector64pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="50.4" x2="107.65" y2="50.4" />
+      <text transform="matrix(1 0 0 1 78.4629 51.0996)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D3 PWM</text>
+      <rect id="p0_connector64terminal" x="107.65" y="50.05" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector65pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="57.6" x2="107.65" y2="57.6" />
+      <text transform="matrix(1 0 0 1 87.5273 58.3008)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D4</text>
+      <rect id="p0_connector65terminal" x="107.65" y="57.25" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector66pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="64.8" x2="107.65" y2="64.8" />
+      <text transform="matrix(1 0 0 1 78.4629 65.5)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D5 PWM</text>
+      <rect id="p0_connector66terminal" x="107.65" y="64.45" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector67pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="72" x2="107.65" y2="72" />
+      <text transform="matrix(1 0 0 1 78.4629 72.6992)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D6 PWM</text>
+      <rect id="p0_connector67terminal" x="107.65" y="71.65" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector68pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="79.2" x2="107.65" y2="79.2" />
+      <text transform="matrix(1 0 0 1 87.5273 79.9004)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D7</text>
+      <rect id="p0_connector68terminal" x="107.65" y="78.85" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector51pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="86.4" x2="107.65" y2="86.4" />
+      <text transform="matrix(1 0 0 1 87.5273 87.0996)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D8</text>
+      <rect id="p0_connector51terminal" x="107.65" y="86.05" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector52pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="93.6" x2="107.65" y2="93.6" />
+      <text transform="matrix(1 0 0 1 78.4629 94.3008)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D9 PWM</text>
+      <rect id="p0_connector52terminal" x="107.65" y="93.25" fill="none" width="0.699" height="0.699" />
+      <line id="p0_connector53pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="100.8" x2="107.65" y2="100.8" />
+      <text transform="matrix(1 0 0 1 71.5977 101.5)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D10 PWM/SS</text>
+      <rect id="p0_connector53terminal" x="107.65" y="100.449" fill="none" width="0.699" height="0.701" />
+      <line id="p0_connector54pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="108" x2="107.65" y2="108" />
+      <text transform="matrix(1 0 0 1 66.584 108.6992)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D11 PWM/MOSI</text>
+      <rect id="p0_connector54terminal" x="107.65" y="107.65" fill="none" width="0.699" height="0.699" />
+      <line id="p0_connector55pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="115.2" x2="107.65" y2="115.2" />
+      <text transform="matrix(1 0 0 1 75.6484 115.9004)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D12/MISO</text>
+      <rect id="p0_connector55terminal" x="107.65" y="114.85" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector41pin" fill="none" x1="93.25" y1="122.4" x2="107.65" y2="122.4" />
+      <rect id="p0_connector41terminal" x="107.65" y="122.05" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector56pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="122.4" x2="107.65" y2="122.4" />
+      <text transform="matrix(1 0 0 1 78.3398 123.0996)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">D13/SCK</text>
+      <rect id="p0_connector56terminal" x="107.65" y="122.05" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector45pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="136.8" x2="107.65" y2="136.8" />
+      <text transform="matrix(1 0 0 1 73.2715 137.5)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">ICSP2 MISO</text>
+      <rect id="p0_connector45terminal" x="107.65" y="136.45" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector47pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="144" x2="107.65" y2="144" />
+      <text transform="matrix(1 0 0 1 75.9629 144.6992)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">ICSP2 SCK</text>
+      <rect id="p0_connector47terminal" x="107.65" y="143.65" fill="none" width="0.699" height="0.699" />
+      <line id="p0_connector48pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="93.25" y1="151.2" x2="107.65" y2="151.2" />
+      <text transform="matrix(1 0 0 1 73.2715 151.9004)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">ICSP2 MOSI</text>
+      <rect id="p0_connector48terminal" x="107.65" y="150.85" fill="none" width="0.699" height="0.7" />
+      <line id="p0_connector43pin" fill="none" x1="0.35" y1="28.8" x2="14.75" y2="28.8" />
+      <rect id="p0_connector43terminal" x="-0.35" y="28.45" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector85pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.35" y1="28.8" x2="14.75" y2="28.8" />
+      <text transform="matrix(1 0 0 1 16.1504 29.5)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">RESET</text>
+      <rect id="p0_connector85terminal" x="-0.35" y="28.45" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector49pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.35" y1="36" x2="14.75" y2="36" />
+      <text transform="matrix(1 0 0 1 16.1504 36.6992)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">RESET2</text>
+      <rect id="p0_connector49terminal" x="-0.35" y="35.65" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector58pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.35" y1="43.2" x2="14.75" y2="43.2" />
+      <text transform="matrix(1 0 0 1 16.1504 43.9004)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">AREF</text>
+      <rect id="p0_connector58terminal" x="-0.35" y="42.85" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector84pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.35" y1="50.4" x2="14.75" y2="50.4" />
+      <text transform="matrix(1 0 0 1 16.1504 51.0996)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">IOREF</text>
+      <rect id="p0_connector84terminal" x="-0.35" y="50.05" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector0pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.35" y1="64.8" x2="14.75" y2="64.8" />
+      <text transform="matrix(1 0 0 1 16.1504 65.5)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">A0</text>
+      <rect id="p0_connector0terminal" x="-0.35" y="64.45" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector1pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.35" y1="72" x2="14.75" y2="72" />
+      <text transform="matrix(1 0 0 1 16.1504 72.6992)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">A1</text>
+      <rect id="p0_connector1terminal" x="-0.35" y="71.65" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector2pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.35" y1="79.2" x2="14.75" y2="79.2" />
+      <text transform="matrix(1 0 0 1 16.1504 79.9004)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">A2</text>
+      <rect id="p0_connector2terminal" x="-0.35" y="78.85" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector3pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.35" y1="86.4" x2="14.75" y2="86.4" />
+      <text transform="matrix(1 0 0 1 16.1504 87.0996)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">A3</text>
+      <rect id="p0_connector3terminal" x="-0.35" y="86.05" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector39pin" fill="none" x1="0.35" y1="93.6" x2="14.75" y2="93.6" />
+      <rect id="p0_connector39terminal" x="-0.35" y="93.25" fill="none" width="0.7" height="0.699" />
+      <line id="p0_connector42pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="107.65" y1="108" x2="93.251" y2="108" />
+      <rect id="p0_connector42terminal" x="107.65" y="107.65" fill="none" width="0.701" height="0.699" />
+      <line id="p0_connector4pin" fill="none" x1="0.35" y1="93.6" x2="14.75" y2="93.6" />
+      <rect id="p0_connector4terminal" x="-0.35" y="93.25" fill="none" width="0.7" height="0.699" />
+      <line id="p0_connector59pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.35" y1="93.6" x2="14.75" y2="93.6" />
+      <text transform="matrix(1 0 0 1 16.1504 94.3008)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">A4/SDA</text>
+      <rect id="p0_connector59terminal" x="-0.35" y="93.25" fill="none" width="0.7" height="0.699" />
+      <line id="p0_connector5pin" fill="none" x1="0.35" y1="100.8" x2="14.75" y2="100.8" />
+      <rect id="p0_connector5terminal" x="-0.35" y="100.449" fill="none" width="0.7" height="0.701" />
+      <line id="p0_connector60pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.35" y1="100.8" x2="14.75" y2="100.8" />
+      <text transform="matrix(1 0 0 1 16.1504 101.5)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">A5/SCL</text>
+      <rect id="p0_connector60terminal" x="-0.35" y="100.449" fill="none" width="0.7" height="0.701" />
+      <line id="p0_connector91pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.35" y1="136.8" x2="14.75" y2="136.8" />
+      <text transform="matrix(1 0 0 1 16.1504 137.5)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">N/C</text>
+      <rect id="p0_connector91terminal" x="-0.35" y="136.45" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector88pin" fill="none" x1="57.6" y1="165.25" x2="57.6" y2="179.65" />
+      <rect id="p0_connector88terminal" x="57.25" y="179.65" fill="none" width="0.699" height="0.699" />
+      <line id="p0_connector57pin" fill="none" x1="57.6" y1="165.25" x2="57.6" y2="179.65" />
+      <rect id="p0_connector57terminal" x="57.25" y="179.65" fill="none" width="0.699" height="0.699" />
+      <line id="p0_connector44pin" fill="none" x1="57.6" y1="165.25" x2="57.6" y2="179.65" />
+      <rect id="p0_connector44terminal" x="57.25" y="179.65" fill="none" width="0.699" height="0.699" />
+      <line id="p0_connector50pin" fill="none" x1="57.6" y1="165.25" x2="57.6" y2="179.65" />
+      <rect id="p0_connector50terminal" x="57.25" y="179.65" fill="none" width="0.699" height="0.699" />
+      <line id="p0_connector89pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="57.6" y1="165.25" x2="57.6" y2="179.65" />
+      <g transform="translate(20.5669,57.8026)">
+        <g transform="rotate(270)">
+          <text transform="matrix(1 0 0 1 -106.047 37.7339)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">GND</text>
+        </g>
+      </g>
+      <rect id="p0_connector89terminal" x="57.25" y="179.65" fill="none" width="0.699" height="0.699" />
+      <line id="p0_connector86pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="36" y1="0.35" x2="36" y2="14.75" />
+      <g transform="translate(12.9469,5.69736)">
+        <g transform="rotate(270)">
+          <text transform="matrix(1 0 0 1 -16.2948 23.7523)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">3V3</text>
+        </g>
+      </g>
+      <rect id="p0_connector86terminal" x="35.65" y="-0.35" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector40pin" fill="none" x1="50.4" y1="0.35" x2="50.4" y2="14.75" />
+      <rect id="p0_connector40terminal" x="50.05" y="-0.35" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector46pin" fill="none" x1="50.4" y1="0.35" x2="50.4" y2="14.75" />
+      <rect id="p0_connector46terminal" x="50.05" y="-0.35" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector87pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="50.4" y1="0.35" x2="50.4" y2="14.75" />
+      <g transform="translate(18.0269,5.69736)">
+        <g transform="rotate(270)">
+          <text transform="matrix(1 0 0 1 -14.3671 33.0727)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">5V</text>
+        </g>
+      </g>
+      <rect id="p0_connector87terminal" x="50.05" y="-0.35" fill="none" width="0.7" height="0.7" />
+      <line id="p0_connector90pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="64.8" y1="0.35" x2="64.8" y2="14.75" />
+      <g transform="translate(23.1069,5.69736)">
+        <g transform="rotate(270)">
+          <text transform="matrix(1 0 0 1 -16.1776 42.3931)" fill="#8C8C8C" font-family="Noto Sans" font-size="3.5">VIN</text>
+        </g>
+      </g>
+      <rect id="p0_connector90terminal" x="64.449" y="-0.35" fill="none" width="0.701" height="0.7" />
+      <text id="p0_label" transform="matrix(1 0 0 1 46.7871 81.3828)" font-family="Noto Sans" font-size="4.25">Arduino</text>
+      <text id="p0_label_1_" transform="matrix(1 0 0 1 50.4883 85.916)" font-family="Noto Sans" font-size="4.25">Uno</text>
+      <text id="p0_label_2_" transform="matrix(1 0 0 1 48.5938 90.4492)" font-family="Noto Sans" font-size="4.25">(Rev3)</text>
+      <text id="p0_label_3_" transform="matrix(1 0 0 1 50.1426 94.9844)" font-family="Noto Sans" font-size="4.25">ICSP</text>
+    </g>
+  </svg>
+  <svg width="72.0" height="45.0" viewBox="0 0 72 45" x="144.0" y="72.0">
+    <g id="p1_schematic">
+      <text x="36.0" y="12" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">R1  100k</text>
+      <line x1="0" y1="27" x2="14" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <rect x="14" y="23" width="44" height="8" fill="white" stroke="#32434c" rx="0" />
+      <line x1="58" y1="27" x2="72" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="0" cy="27" r="1.4" fill="#27323b" id="p1_connector0pin" />
+      <rect id="p1_connector0terminal" x="-0.125" y="26.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="72" cy="27" r="1.4" fill="#27323b" id="p1_connector1pin" />
+      <rect id="p1_connector1terminal" x="71.875" y="26.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="72.0" height="45.0" viewBox="0 0 72 45" x="261.0" y="72.0">
+    <g id="p2_schematic">
+      <text x="36.0" y="12" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">C1  100nF</text>
+      <line x1="0" y1="27" x2="33.0" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <line x1="39.0" y1="27" x2="72" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <line x1="33.0" y1="19" x2="33.0" y2="35" stroke="#32434c" stroke-width="1.4" />
+      <line x1="39.0" y1="19" x2="39.0" y2="35" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="0" cy="27" r="1.4" fill="#27323b" id="p2_connector0pin" />
+      <rect id="p2_connector0terminal" x="-0.125" y="26.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="72" cy="27" r="1.4" fill="#27323b" id="p2_connector1pin" />
+      <rect id="p2_connector1terminal" x="71.875" y="26.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="72.0" height="45.0" viewBox="0 0 72 45" x="342.0" y="144.0">
+    <g id="p3_schematic">
+      <text x="36.0" y="12" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">R2  10M</text>
+      <line x1="0" y1="27" x2="14" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <rect x="14" y="23" width="44" height="8" fill="white" stroke="#32434c" rx="0" />
+      <line x1="58" y1="27" x2="72" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="0" cy="27" r="1.4" fill="#27323b" id="p3_connector0pin" />
+      <rect id="p3_connector0terminal" x="-0.125" y="26.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="72" cy="27" r="1.4" fill="#27323b" id="p3_connector1pin" />
+      <rect id="p3_connector1terminal" x="71.875" y="26.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="72.0" height="45.0" viewBox="0 0 72 45" x="63.0" y="261.0">
+    <g id="p4_schematic">
+      <text x="36.0" y="12" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">R3  10k</text>
+      <line x1="0" y1="27" x2="14" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <rect x="14" y="23" width="44" height="8" fill="white" stroke="#32434c" rx="0" />
+      <line x1="58" y1="27" x2="72" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="0" cy="27" r="1.4" fill="#27323b" id="p4_connector0pin" />
+      <rect id="p4_connector0terminal" x="-0.125" y="26.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="72" cy="27" r="1.4" fill="#27323b" id="p4_connector1pin" />
+      <rect id="p4_connector1terminal" x="71.875" y="26.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="72.0" height="45.0" viewBox="0 0 72 45" x="180.0" y="261.0">
+    <g id="p5_schematic">
+      <text x="36.0" y="12" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">R4  10k</text>
+      <line x1="0" y1="27" x2="14" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <rect x="14" y="23" width="44" height="8" fill="white" stroke="#32434c" rx="0" />
+      <line x1="58" y1="27" x2="72" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="0" cy="27" r="1.4" fill="#27323b" id="p5_connector0pin" />
+      <rect id="p5_connector0terminal" x="-0.125" y="26.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="72" cy="27" r="1.4" fill="#27323b" id="p5_connector1pin" />
+      <rect id="p5_connector1terminal" x="71.875" y="26.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="72.0" height="45.0" viewBox="0 0 72 45" x="522.0" y="72.0">
+    <g id="p6_schematic">
+      <text x="36.0" y="12" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">R5  3.3k</text>
+      <line x1="0" y1="27" x2="14" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <rect x="14" y="23" width="44" height="8" fill="white" stroke="#32434c" rx="0" />
+      <line x1="58" y1="27" x2="72" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="0" cy="27" r="1.4" fill="#27323b" id="p6_connector0pin" />
+      <rect id="p6_connector0terminal" x="-0.125" y="26.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="72" cy="27" r="1.4" fill="#27323b" id="p6_connector1pin" />
+      <rect id="p6_connector1terminal" x="71.875" y="26.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="72.0" height="45.0" viewBox="0 0 72 45" x="180.0" y="342.0">
+    <g id="p7_schematic">
+      <text x="36.0" y="12" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">C2  100uF</text>
+      <line x1="0" y1="27" x2="33.0" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <line x1="39.0" y1="27" x2="72" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <line x1="33.0" y1="19" x2="33.0" y2="35" stroke="#32434c" stroke-width="1.4" />
+      <line x1="39.0" y1="19" x2="39.0" y2="35" stroke="#32434c" stroke-width="1.4" />
+      <text x="24.0" y="23" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">+</text>
+      <circle cx="0" cy="27" r="1.4" fill="#27323b" id="p7_connector0pin" />
+      <rect id="p7_connector0terminal" x="-0.125" y="26.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="72" cy="27" r="1.4" fill="#27323b" id="p7_connector1pin" />
+      <rect id="p7_connector1terminal" x="71.875" y="26.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="72.0" height="45.0" viewBox="0 0 72 45" x="495.0" y="423.0">
+    <g id="p8_schematic">
+      <text x="36.0" y="12" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">C3  100nF</text>
+      <line x1="0" y1="27" x2="33.0" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <line x1="39.0" y1="27" x2="72" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <line x1="33.0" y1="19" x2="33.0" y2="35" stroke="#32434c" stroke-width="1.4" />
+      <line x1="39.0" y1="19" x2="39.0" y2="35" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="0" cy="27" r="1.4" fill="#27323b" id="p8_connector0pin" />
+      <rect id="p8_connector0terminal" x="-0.125" y="26.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="72" cy="27" r="1.4" fill="#27323b" id="p8_connector1pin" />
+      <rect id="p8_connector1terminal" x="71.875" y="26.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="72.0" height="45.0" viewBox="0 0 72 45" x="612.0" y="162.0">
+    <g id="p9_schematic">
+      <text x="36.0" y="12" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">C4  15nF</text>
+      <line x1="0" y1="27" x2="33.0" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <line x1="39.0" y1="27" x2="72" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <line x1="33.0" y1="19" x2="33.0" y2="35" stroke="#32434c" stroke-width="1.4" />
+      <line x1="39.0" y1="19" x2="39.0" y2="35" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="0" cy="27" r="1.4" fill="#27323b" id="p9_connector0pin" />
+      <rect id="p9_connector0terminal" x="-0.125" y="26.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="72" cy="27" r="1.4" fill="#27323b" id="p9_connector1pin" />
+      <rect id="p9_connector1terminal" x="71.875" y="26.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="144.0" height="189.0" viewBox="0 0 144 189" x="342.0" y="216.0">
+    <g id="p10_schematic">
+      <rect x="10" y="14" width="124" height="161" fill="#ffffff" stroke="#354950" rx="0" />
+      <text x="72.0" y="28" fill="#14242b" font-family="sans-serif" font-size="10" text-anchor="middle">U1</text>
+      <text x="72.0" y="169" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="middle">MCP6002-E/P</text>
+      <line x1="144" y1="72" x2="134" y2="72" stroke="#32434c" stroke-width="1.4" />
+      <text x="130" y="74" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">1 OUT A</text>
+      <line x1="0" y1="72" x2="10" y2="72" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="74" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">2 −IN A</text>
+      <line x1="0" y1="54" x2="10" y2="54" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="56" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">3 +IN A</text>
+      <line x1="0" y1="144" x2="10" y2="144" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="146" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">4 VSS</text>
+      <line x1="0" y1="108" x2="10" y2="108" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="110" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">5 +IN B</text>
+      <line x1="0" y1="126" x2="10" y2="126" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="128" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">6 −IN B</text>
+      <line x1="144" y1="108" x2="134" y2="108" stroke="#32434c" stroke-width="1.4" />
+      <text x="130" y="110" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">7 OUT B</text>
+      <line x1="144" y1="36" x2="134" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <text x="130" y="38" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">8 VDD</text>
+      <circle cx="144" cy="72" r="1.4" fill="#27323b" id="p10_connector0pin" />
+      <rect id="p10_connector0terminal" x="143.875" y="71.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="72" r="1.4" fill="#27323b" id="p10_connector1pin" />
+      <rect id="p10_connector1terminal" x="-0.125" y="71.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="54" r="1.4" fill="#27323b" id="p10_connector2pin" />
+      <rect id="p10_connector2terminal" x="-0.125" y="53.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="144" r="1.4" fill="#27323b" id="p10_connector3pin" />
+      <rect id="p10_connector3terminal" x="-0.125" y="143.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="108" r="1.4" fill="#27323b" id="p10_connector4pin" />
+      <rect id="p10_connector4terminal" x="-0.125" y="107.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="126" r="1.4" fill="#27323b" id="p10_connector5pin" />
+      <rect id="p10_connector5terminal" x="-0.125" y="125.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="144" cy="108" r="1.4" fill="#27323b" id="p10_connector6pin" />
+      <rect id="p10_connector6terminal" x="143.875" y="107.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="144" cy="36" r="1.4" fill="#27323b" id="p10_connector7pin" />
+      <rect id="p10_connector7terminal" x="143.875" y="35.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="162.0" height="234.0" viewBox="0 0 162 234" x="999.0" y="297.0">
+    <g id="p11_schematic">
+      <rect x="10" y="14" width="142" height="206" fill="#ffffff" stroke="#354950" rx="0" />
+      <text x="81.0" y="28" fill="#14242b" font-family="sans-serif" font-size="10" text-anchor="middle">U2</text>
+      <text x="81.0" y="214" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="middle">FXMA108</text>
+      <line x1="0" y1="36" x2="10" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="38" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">1 VA</text>
+      <line x1="0" y1="54" x2="10" y2="54" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="56" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">2 A0</text>
+      <line x1="0" y1="72" x2="10" y2="72" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="74" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">3 A1</text>
+      <line x1="0" y1="90" x2="10" y2="90" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="92" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">4 A2</text>
+      <line x1="0" y1="108" x2="10" y2="108" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="110" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">5 A3</text>
+      <line x1="0" y1="126" x2="10" y2="126" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="128" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">6 A4</text>
+      <line x1="0" y1="144" x2="10" y2="144" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="146" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">7 A5</text>
+      <line x1="0" y1="162" x2="10" y2="162" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="164" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">8 A6</text>
+      <line x1="0" y1="180" x2="10" y2="180" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="182" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">9 A7</text>
+      <line x1="0" y1="198" x2="10" y2="198" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="200" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">10 GND</text>
+      <line x1="162" y1="198" x2="152" y2="198" stroke="#32434c" stroke-width="1.4" />
+      <text x="148" y="200" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">11 /OE</text>
+      <line x1="162" y1="180" x2="152" y2="180" stroke="#32434c" stroke-width="1.4" />
+      <text x="148" y="182" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">12 B7</text>
+      <line x1="162" y1="162" x2="152" y2="162" stroke="#32434c" stroke-width="1.4" />
+      <text x="148" y="164" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">13 B6</text>
+      <line x1="162" y1="144" x2="152" y2="144" stroke="#32434c" stroke-width="1.4" />
+      <text x="148" y="146" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">14 B5</text>
+      <line x1="162" y1="126" x2="152" y2="126" stroke="#32434c" stroke-width="1.4" />
+      <text x="148" y="128" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">15 B4</text>
+      <line x1="162" y1="108" x2="152" y2="108" stroke="#32434c" stroke-width="1.4" />
+      <text x="148" y="110" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">16 B3</text>
+      <line x1="162" y1="90" x2="152" y2="90" stroke="#32434c" stroke-width="1.4" />
+      <text x="148" y="92" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">17 B2</text>
+      <line x1="162" y1="72" x2="152" y2="72" stroke="#32434c" stroke-width="1.4" />
+      <text x="148" y="74" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">18 B1</text>
+      <line x1="162" y1="54" x2="152" y2="54" stroke="#32434c" stroke-width="1.4" />
+      <text x="148" y="56" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">19 B0</text>
+      <line x1="162" y1="36" x2="152" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <text x="148" y="38" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">20 VB</text>
+      <circle cx="0" cy="36" r="1.4" fill="#27323b" id="p11_connector0pin" />
+      <rect id="p11_connector0terminal" x="-0.125" y="35.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="54" r="1.4" fill="#27323b" id="p11_connector1pin" />
+      <rect id="p11_connector1terminal" x="-0.125" y="53.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="72" r="1.4" fill="#27323b" id="p11_connector2pin" />
+      <rect id="p11_connector2terminal" x="-0.125" y="71.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="90" r="1.4" fill="#27323b" id="p11_connector3pin" />
+      <rect id="p11_connector3terminal" x="-0.125" y="89.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="108" r="1.4" fill="#27323b" id="p11_connector4pin" />
+      <rect id="p11_connector4terminal" x="-0.125" y="107.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="126" r="1.4" fill="#27323b" id="p11_connector5pin" />
+      <rect id="p11_connector5terminal" x="-0.125" y="125.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="144" r="1.4" fill="#27323b" id="p11_connector6pin" />
+      <rect id="p11_connector6terminal" x="-0.125" y="143.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="162" r="1.4" fill="#27323b" id="p11_connector7pin" />
+      <rect id="p11_connector7terminal" x="-0.125" y="161.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="180" r="1.4" fill="#27323b" id="p11_connector8pin" />
+      <rect id="p11_connector8terminal" x="-0.125" y="179.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="198" r="1.4" fill="#27323b" id="p11_connector9pin" />
+      <rect id="p11_connector9terminal" x="-0.125" y="197.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="162" cy="198" r="1.4" fill="#27323b" id="p11_connector10pin" />
+      <rect id="p11_connector10terminal" x="161.875" y="197.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="162" cy="180" r="1.4" fill="#27323b" id="p11_connector11pin" />
+      <rect id="p11_connector11terminal" x="161.875" y="179.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="162" cy="162" r="1.4" fill="#27323b" id="p11_connector12pin" />
+      <rect id="p11_connector12terminal" x="161.875" y="161.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="162" cy="144" r="1.4" fill="#27323b" id="p11_connector13pin" />
+      <rect id="p11_connector13terminal" x="161.875" y="143.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="162" cy="126" r="1.4" fill="#27323b" id="p11_connector14pin" />
+      <rect id="p11_connector14terminal" x="161.875" y="125.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="162" cy="108" r="1.4" fill="#27323b" id="p11_connector15pin" />
+      <rect id="p11_connector15terminal" x="161.875" y="107.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="162" cy="90" r="1.4" fill="#27323b" id="p11_connector16pin" />
+      <rect id="p11_connector16terminal" x="161.875" y="89.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="162" cy="72" r="1.4" fill="#27323b" id="p11_connector17pin" />
+      <rect id="p11_connector17terminal" x="161.875" y="71.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="162" cy="54" r="1.4" fill="#27323b" id="p11_connector18pin" />
+      <rect id="p11_connector18terminal" x="161.875" y="53.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="162" cy="36" r="1.4" fill="#27323b" id="p11_connector19pin" />
+      <rect id="p11_connector19terminal" x="161.875" y="35.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="90.0" height="72.0" viewBox="0 0 90 72" x="18.0" y="45.0">
+    <g id="p12_schematic">
+      <text x="45" y="14" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">J1  IN</text>
+      <line x1="0" y1="36" x2="26" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <line x1="64" y1="36" x2="90" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <rect x="26" y="27" width="38" height="18" fill="white" stroke="#32434c" rx="0" />
+      <text x="23" y="54" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="middle">TIP</text>
+      <text x="65" y="54" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="middle">SLV</text>
+      <circle cx="0" cy="36" r="1.4" fill="#27323b" id="p12_connector0pin" />
+      <rect id="p12_connector0terminal" x="-0.125" y="35.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="90" cy="36" r="1.4" fill="#27323b" id="p12_connector1pin" />
+      <rect id="p12_connector1terminal" x="89.875" y="35.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="90.0" height="72.0" viewBox="0 0 90 72" x="18.0" y="135.0">
+    <g id="p13_schematic">
+      <text x="45" y="14" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">J2  THRU</text>
+      <line x1="0" y1="36" x2="26" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <line x1="64" y1="36" x2="90" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <rect x="26" y="27" width="38" height="18" fill="white" stroke="#32434c" rx="0" />
+      <text x="23" y="54" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="middle">TIP</text>
+      <text x="65" y="54" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="middle">SLV</text>
+      <circle cx="0" cy="36" r="1.4" fill="#27323b" id="p13_connector0pin" />
+      <rect id="p13_connector0terminal" x="-0.125" y="35.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="90" cy="36" r="1.4" fill="#27323b" id="p13_connector1pin" />
+      <rect id="p13_connector1terminal" x="89.875" y="35.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="90.0" height="72.0" viewBox="0 0 90 72" x="693.0" y="612.0">
+    <g id="p14_schematic">
+      <text x="45" y="14" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">S1  MODE</text>
+      <line x1="0" y1="36" x2="26" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <line x1="64" y1="36" x2="90" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="26" cy="36" r="2" fill="#26333a" />
+      <circle cx="64" cy="36" r="2" fill="#26333a" />
+      <line x1="26" y1="36" x2="61" y2="22" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="0" cy="36" r="1.4" fill="#27323b" id="p14_connector0pin" />
+      <rect id="p14_connector0terminal" x="-0.125" y="35.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="90" cy="36" r="1.4" fill="#27323b" id="p14_connector1pin" />
+      <rect id="p14_connector1terminal" x="89.875" y="35.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="90.0" height="72.0" viewBox="0 0 90 72" x="801.0" y="612.0">
+    <g id="p15_schematic">
+      <text x="45" y="14" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">S2  SPEED</text>
+      <line x1="0" y1="36" x2="26" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <line x1="64" y1="36" x2="90" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="26" cy="36" r="2" fill="#26333a" />
+      <circle cx="64" cy="36" r="2" fill="#26333a" />
+      <line x1="26" y1="36" x2="61" y2="22" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="0" cy="36" r="1.4" fill="#27323b" id="p15_connector0pin" />
+      <rect id="p15_connector0terminal" x="-0.125" y="35.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="90" cy="36" r="1.4" fill="#27323b" id="p15_connector1pin" />
+      <rect id="p15_connector1terminal" x="89.875" y="35.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="90.0" height="72.0" viewBox="0 0 90 72" x="909.0" y="612.0">
+    <g id="p16_schematic">
+      <text x="45" y="14" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">S3  VIEW</text>
+      <line x1="0" y1="36" x2="26" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <line x1="64" y1="36" x2="90" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="26" cy="36" r="2" fill="#26333a" />
+      <circle cx="64" cy="36" r="2" fill="#26333a" />
+      <line x1="26" y1="36" x2="61" y2="22" stroke="#32434c" stroke-width="1.4" />
+      <circle cx="0" cy="36" r="1.4" fill="#27323b" id="p16_connector0pin" />
+      <rect id="p16_connector0terminal" x="-0.125" y="35.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="90" cy="36" r="1.4" fill="#27323b" id="p16_connector1pin" />
+      <rect id="p16_connector1terminal" x="89.875" y="35.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="144.0" height="234.0" viewBox="0 0 144 234" x="1260.0" y="297.0">
+    <g id="p17_schematic">
+      <rect x="10" y="14" width="124" height="206" fill="#ffffff" stroke="#354950" rx="0" />
+      <text x="72.0" y="28" fill="#14242b" font-family="sans-serif" font-size="10" text-anchor="middle">LCD</text>
+      <text x="72.0" y="214" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="middle">MSP2807</text>
+      <line x1="0" y1="36" x2="10" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="38" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">1 VCC</text>
+      <line x1="0" y1="54" x2="10" y2="54" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="56" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">2 GND</text>
+      <line x1="0" y1="72" x2="10" y2="72" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="74" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">3 CS</text>
+      <line x1="0" y1="90" x2="10" y2="90" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="92" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">4 RESET</text>
+      <line x1="0" y1="108" x2="10" y2="108" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="110" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">5 DC</text>
+      <line x1="0" y1="126" x2="10" y2="126" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="128" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">6 SDI</text>
+      <line x1="0" y1="144" x2="10" y2="144" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="146" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">7 SCK</text>
+      <line x1="0" y1="162" x2="10" y2="162" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="164" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">8 LED</text>
+      <line x1="144" y1="36" x2="134" y2="36" stroke="#32434c" stroke-width="1.4" />
+      <text x="130" y="38" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">9 SDO</text>
+      <line x1="144" y1="54" x2="134" y2="54" stroke="#32434c" stroke-width="1.4" />
+      <text x="130" y="56" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">10 T_CLK</text>
+      <line x1="144" y1="72" x2="134" y2="72" stroke="#32434c" stroke-width="1.4" />
+      <text x="130" y="74" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">11 T_CS</text>
+      <line x1="144" y1="90" x2="134" y2="90" stroke="#32434c" stroke-width="1.4" />
+      <text x="130" y="92" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">12 T_DIN</text>
+      <line x1="144" y1="108" x2="134" y2="108" stroke="#32434c" stroke-width="1.4" />
+      <text x="130" y="110" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">13 T_DO</text>
+      <line x1="144" y1="126" x2="134" y2="126" stroke="#32434c" stroke-width="1.4" />
+      <text x="130" y="128" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">14 T_IRQ</text>
+      <circle cx="0" cy="36" r="1.4" fill="#27323b" id="p17_connector0pin" />
+      <rect id="p17_connector0terminal" x="-0.125" y="35.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="54" r="1.4" fill="#27323b" id="p17_connector1pin" />
+      <rect id="p17_connector1terminal" x="-0.125" y="53.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="72" r="1.4" fill="#27323b" id="p17_connector2pin" />
+      <rect id="p17_connector2terminal" x="-0.125" y="71.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="90" r="1.4" fill="#27323b" id="p17_connector3pin" />
+      <rect id="p17_connector3terminal" x="-0.125" y="89.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="108" r="1.4" fill="#27323b" id="p17_connector4pin" />
+      <rect id="p17_connector4terminal" x="-0.125" y="107.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="126" r="1.4" fill="#27323b" id="p17_connector5pin" />
+      <rect id="p17_connector5terminal" x="-0.125" y="125.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="144" r="1.4" fill="#27323b" id="p17_connector6pin" />
+      <rect id="p17_connector6terminal" x="-0.125" y="143.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="0" cy="162" r="1.4" fill="#27323b" id="p17_connector7pin" />
+      <rect id="p17_connector7terminal" x="-0.125" y="161.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="144" cy="36" r="1.4" fill="#27323b" id="p17_connector8pin" />
+      <rect id="p17_connector8terminal" x="143.875" y="35.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="144" cy="54" r="1.4" fill="#27323b" id="p17_connector9pin" />
+      <rect id="p17_connector9terminal" x="143.875" y="53.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="144" cy="72" r="1.4" fill="#27323b" id="p17_connector10pin" />
+      <rect id="p17_connector10terminal" x="143.875" y="71.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="144" cy="90" r="1.4" fill="#27323b" id="p17_connector11pin" />
+      <rect id="p17_connector11terminal" x="143.875" y="89.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="144" cy="108" r="1.4" fill="#27323b" id="p17_connector12pin" />
+      <rect id="p17_connector12terminal" x="143.875" y="107.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="144" cy="126" r="1.4" fill="#27323b" id="p17_connector13pin" />
+      <rect id="p17_connector13terminal" x="143.875" y="125.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="135.0" height="72.0" viewBox="0 0 135 72" x="621.0" y="27.0">
+    <g id="p18_schematic">
+      <rect x="10" y="16" width="115" height="42" fill="white" stroke="#354950" rx="0" />
+      <text x="67.5" y="11" fill="#14242b" font-family="sans-serif" font-size="9" text-anchor="middle">J3  MJ-14</text>
+      <text x="67.5" y="29" fill="#14242b" font-family="sans-serif" font-size="9" text-anchor="middle">9 V DC</text>
+      <line x1="0" y1="45" x2="10" y2="45" stroke="#32434c" stroke-width="1.4" />
+      <line x1="125" y1="45" x2="135" y2="45" stroke="#32434c" stroke-width="1.4" />
+      <text x="14" y="48" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="start">CENTER −</text>
+      <text x="121" y="48" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="end">OUTER +</text>
+      <circle cx="0" cy="45" r="1.4" fill="#27323b" id="p18_connector0pin" />
+      <rect id="p18_connector0terminal" x="-0.125" y="44.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="135" cy="45" r="1.4" fill="#27323b" id="p18_connector1pin" />
+      <rect id="p18_connector1terminal" x="134.875" y="44.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <svg width="81.0" height="45.0" viewBox="0 0 81 45" x="810.0" y="45.0">
+    <g id="p19_schematic">
+      <text x="40.5" y="12" fill="#14242b" font-family="sans-serif" font-size="8" text-anchor="middle">D1  1N5819</text>
+      <line x1="0" y1="27" x2="31" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <line x1="46" y1="27" x2="81" y2="27" stroke="#32434c" stroke-width="1.4" />
+      <polygon points="31,19 31,35 46,27" fill="#32434c" />
+      <polyline points="42,17 46,17 46,37 50,37" fill="none" stroke="#32434c" />
+      <text x="15" y="41" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="middle">A</text>
+      <text x="64" y="41" fill="#14242b" font-family="sans-serif" font-size="7" text-anchor="middle">K</text>
+      <circle cx="0" cy="27" r="1.4" fill="#27323b" id="p19_connector0pin" />
+      <rect id="p19_connector0terminal" x="-0.125" y="26.875" width="0.25" height="0.25" fill="none" />
+      <circle cx="81" cy="27" r="1.4" fill="#27323b" id="p19_connector1pin" />
+      <rect id="p19_connector1terminal" x="80.875" y="26.875" width="0.25" height="0.25" fill="none" />
+    </g>
+  </svg>
+  <line x1="756.0" y1="72.0" x2="810.0" y2="72.0" stroke="#b6692a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="891.0" y1="72.0" x2="909.0" y2="72.0" stroke="#bb5538" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="909.0" y1="72.0" x2="909.0" y2="297.0" stroke="#bb5538" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="909.0" y1="297.0" x2="801.0" y2="297.0" stroke="#bb5538" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="801.0" y1="297.0" x2="800.999375" y2="315.0" stroke="#bb5538" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="216.0" y1="99.0" x2="261.0" y2="99.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="854.999375" y1="440.999375" x2="990.0" y2="441.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="990.0" y1="441.0" x2="990.0" y2="288.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="990.0" y1="288.0" x2="1179.0" y2="288.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1179.0" y1="288.0" x2="1179.0" y2="351.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1179.0" y1="351.0" x2="1161.0" y2="351.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="999.0" y1="351.0" x2="981.0" y2="351.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="981.0" y1="351.0" x2="981.0" y2="279.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="981.0" y1="279.0" x2="1242.0" y2="279.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1242.0" y1="279.0" x2="1242.0" y2="369.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1242.0" y1="369.0" x2="1260.0" y2="369.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="854.999375" y1="423.0" x2="864.0" y2="423.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="864.0" y1="423.0" x2="864.0" y2="540.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="864.0" y1="540.0" x2="1179.0" y2="540.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1179.0" y1="540.0" x2="1179.0" y2="369.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1179.0" y1="369.0" x2="1161.0" y2="369.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="999.0" y1="369.0" x2="972.0" y2="369.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="972.0" y1="369.0" x2="972.0" y2="270.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="972.0" y1="270.0" x2="1251.0" y2="270.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1251.0" y1="270.0" x2="1251.0" y2="387.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1251.0" y1="387.0" x2="1260.0" y2="387.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="854.999375" y1="431.999375" x2="873.0" y2="432.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="873.0" y1="432.0" x2="873.0" y2="549.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="873.0" y1="549.0" x2="1188.0" y2="549.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1188.0" y1="549.0" x2="1188.0" y2="387.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1188.0" y1="387.0" x2="1161.0" y2="387.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="999.0" y1="387.0" x2="963.0" y2="387.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="963.0" y1="387.0" x2="963.0" y2="261.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="963.0" y1="261.0" x2="1233.0" y2="261.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1233.0" y1="261.0" x2="1233.0" y2="405.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1233.0" y1="405.0" x2="1260.0" y2="405.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="854.999375" y1="449.999375" x2="990.0" y2="450.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="990.0" y1="450.0" x2="990.0" y2="558.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="990.0" y1="558.0" x2="1197.0" y2="558.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1197.0" y1="558.0" x2="1197.0" y2="405.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1197.0" y1="405.0" x2="1161.0" y2="405.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="999.0" y1="405.0" x2="981.0" y2="405.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="981.0" y1="405.0" x2="981.0" y2="567.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="981.0" y1="567.0" x2="1242.0" y2="567.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1242.0" y1="567.0" x2="1242.0" y2="423.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1242.0" y1="423.0" x2="1260.0" y2="423.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="854.999375" y1="468.0" x2="972.0" y2="468.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="972.0" y1="468.0" x2="972.0" y2="576.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="972.0" y1="576.0" x2="1206.0" y2="576.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1206.0" y1="576.0" x2="1206.0" y2="423.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1206.0" y1="423.0" x2="1161.0" y2="423.0" stroke="#865ba7" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="999.0" y1="423.0" x2="954.0" y2="423.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="954.0" y1="423.0" x2="954.0" y2="252.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="954.0" y1="252.0" x2="1224.0" y2="252.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1224.0" y1="252.0" x2="1224.0" y2="441.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1224.0" y1="441.0" x2="1260.0" y2="441.0" stroke="#486fb3" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="854.999375" y1="369.0" x2="873.0" y2="369.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="873.0" y1="369.0" x2="873.0" y2="306.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="873.0" y1="306.0" x2="675.0" y2="306.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="675.0" y1="306.0" x2="675.0" y2="648.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="675.0" y1="648.0" x2="693.0" y2="648.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="854.999375" y1="378.0" x2="882.0" y2="378.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="882.0" y1="378.0" x2="882.0" y2="603.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="882.0" y1="603.0" x2="792.0" y2="603.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="792.0" y1="603.0" x2="792.0" y2="648.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="792.0" y1="648.0" x2="801.0" y2="648.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="854.999375" y1="387.0" x2="900.0" y2="387.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="900.0" y1="387.0" x2="900.0" y2="648.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="900.0" y1="648.0" x2="909.0" y2="648.0" stroke="#a17428" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="18.0" y1="81.0" x2="0.0" y2="81.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="0.0" y1="81.0" x2="0.0" y2="171.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="0.0" y1="171.0" x2="18.0" y2="171.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="18.0" y1="81.0" x2="0.0" y2="81.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="0.0" y1="81.0" x2="0.0" y2="126.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="0.0" y1="126.0" x2="126.0" y2="126.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="126.0" y1="126.0" x2="126.0" y2="99.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="126.0" y1="99.0" x2="144.0" y2="99.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="333.0" y1="99.0" x2="351.0" y2="99.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="351.0" y1="99.0" x2="351.0" y2="135.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="351.0" y1="135.0" x2="324.0" y2="135.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="324.0" y1="135.0" x2="324.0" y2="171.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="324.0" y1="171.0" x2="342.0" y2="171.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="342.0" y1="171.0" x2="324.0" y2="171.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="324.0" y1="171.0" x2="324.0" y2="324.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="324.0" y1="324.0" x2="342.0" y2="324.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="414.0" y1="171.0" x2="504.0" y2="171.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="504.0" y1="171.0" x2="504.0" y2="288.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="504.0" y1="288.0" x2="486.0" y2="288.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="414.0" y1="171.0" x2="432.0" y2="171.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="432.0" y1="171.0" x2="432.0" y2="207.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="432.0" y1="207.0" x2="333.0" y2="207.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="333.0" y1="207.0" x2="333.0" y2="288.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="333.0" y1="288.0" x2="342.0" y2="288.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="342.0" y1="342.0" x2="324.0" y2="342.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="324.0" y1="342.0" x2="324.0" y2="414.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="324.0" y1="414.0" x2="504.0" y2="414.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="504.0" y1="414.0" x2="504.0" y2="324.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="504.0" y1="324.0" x2="486.0" y2="324.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="486.0" y1="324.0" x2="513.0" y2="324.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="513.0" y1="324.0" x2="513.0" y2="99.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="513.0" y1="99.0" x2="522.0" y2="99.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="594.0" y1="99.0" x2="612.0" y2="99.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="612.0" y1="99.0" x2="612.0" y2="153.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="612.0" y1="153.0" x2="594.0" y2="153.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="594.0" y1="153.0" x2="594.0" y2="189.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="594.0" y1="189.0" x2="612.0" y2="189.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="612.0" y1="189.0" x2="594.0" y2="189.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="594.0" y1="189.0" x2="594.0" y2="396.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="594.0" y1="396.0" x2="720.0" y2="396.0" stroke="#258676" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="765.0" y1="315.0" x2="765.0" y2="288.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="765.0" y1="288.0" x2="945.0" y2="288.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="945.0" y1="288.0" x2="945.0" y2="333.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="945.0" y1="333.0" x2="999.0" y2="333.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="999.0" y1="333.0" x2="945.0" y2="333.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="945.0" y1="333.0" x2="945.0" y2="243.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="945.0" y1="243.0" x2="1215.0" y2="243.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1215.0" y1="243.0" x2="1215.0" y2="459.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1215.0" y1="459.0" x2="1260.0" y2="459.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1260.0" y1="459.0" x2="1251.0" y2="459.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1251.0" y1="459.0" x2="1251.0" y2="540.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1251.0" y1="540.0" x2="1422.0" y2="540.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1422.0" y1="540.0" x2="1422.0" y2="369.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1422.0" y1="369.0" x2="1404.0" y2="369.0" stroke="#d4822a" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="135.0" y1="288.0" x2="180.0" y2="288.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="180.0" y1="288.0" x2="162.0" y2="288.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="162.0" y1="288.0" x2="162.0" y2="369.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="162.0" y1="369.0" x2="180.0" y2="369.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="180.0" y1="288.0" x2="162.0" y2="288.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="162.0" y1="288.0" x2="162.0" y2="252.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="162.0" y1="252.0" x2="315.0" y2="252.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="315.0" y1="252.0" x2="315.0" y2="270.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="315.0" y1="270.0" x2="342.0" y2="270.0" stroke="#387ca2" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="783.0" y1="315.0" x2="783.0" y2="297.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="783.0" y1="297.0" x2="585.0" y2="297.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="585.0" y1="297.0" x2="585.0" y2="450.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="585.0" y1="450.0" x2="567.0" y2="450.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="567.0" y1="450.0" x2="585.0" y2="450.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="585.0" y1="450.0" x2="585.0" y2="252.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="585.0" y1="252.0" x2="486.0" y2="252.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="783.0" y1="315.0" x2="783.0" y2="234.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="783.0" y1="234.0" x2="1188.0" y2="234.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1188.0" y1="234.0" x2="1188.0" y2="333.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1188.0" y1="333.0" x2="1161.0" y2="333.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1161.0" y1="333.0" x2="1260.0" y2="333.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="486.0" y1="252.0" x2="495.0" y2="252.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="495.0" y1="252.0" x2="495.0" y2="198.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="495.0" y1="198.0" x2="117.0" y2="198.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="117.0" y1="198.0" x2="117.0" y2="252.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="117.0" y1="252.0" x2="45.0" y2="252.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="45.0" y1="252.0" x2="45.0" y2="288.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="45.0" y1="288.0" x2="63.0" y2="288.0" stroke="#bd4b3e" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="791.999375" y1="539.999375" x2="792.0" y2="558.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="792.0" y1="558.0" x2="684.0" y2="558.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="684.0" y1="558.0" x2="684.0" y2="693.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="684.0" y1="693.0" x2="792.0" y2="693.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="792.0" y1="693.0" x2="792.0" y2="648.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="792.0" y1="648.0" x2="783.0" y2="648.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="783.0" y1="648.0" x2="792.0" y2="648.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="792.0" y1="648.0" x2="792.0" y2="693.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="792.0" y1="693.0" x2="900.0" y2="693.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="900.0" y1="693.0" x2="900.0" y2="648.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="900.0" y1="648.0" x2="891.0" y2="648.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="891.0" y1="648.0" x2="900.0" y2="648.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="900.0" y1="648.0" x2="900.0" y2="693.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="900.0" y1="693.0" x2="1017.0" y2="693.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1017.0" y1="693.0" x2="1017.0" y2="648.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1017.0" y1="648.0" x2="999.0" y2="648.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="999.0" y1="648.0" x2="1017.0" y2="648.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1017.0" y1="648.0" x2="1017.0" y2="585.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1017.0" y1="585.0" x2="963.0" y2="585.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="963.0" y1="585.0" x2="963.0" y2="495.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="963.0" y1="495.0" x2="999.0" y2="495.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="999.0" y1="495.0" x2="963.0" y2="495.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="963.0" y1="495.0" x2="963.0" y2="585.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="963.0" y1="585.0" x2="1170.0" y2="585.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1170.0" y1="585.0" x2="1170.0" y2="495.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1170.0" y1="495.0" x2="1161.0" y2="495.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1161.0" y1="495.0" x2="1170.0" y2="495.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1170.0" y1="495.0" x2="1170.0" y2="477.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1170.0" y1="477.0" x2="1161.0" y2="477.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1161.0" y1="477.0" x2="1170.0" y2="477.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1170.0" y1="477.0" x2="1170.0" y2="459.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1170.0" y1="459.0" x2="1161.0" y2="459.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1161.0" y1="459.0" x2="1170.0" y2="459.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1170.0" y1="459.0" x2="1170.0" y2="441.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1170.0" y1="441.0" x2="1161.0" y2="441.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1161.0" y1="441.0" x2="1170.0" y2="441.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1170.0" y1="441.0" x2="1170.0" y2="351.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="1170.0" y1="351.0" x2="1260.0" y2="351.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="791.999375" y1="539.999375" x2="792.0" y2="558.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="792.0" y1="558.0" x2="477.0" y2="558.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="477.0" y1="558.0" x2="477.0" y2="450.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="477.0" y1="450.0" x2="495.0" y2="450.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="495.0" y1="450.0" x2="315.0" y2="450.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="315.0" y1="450.0" x2="315.0" y2="360.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="315.0" y1="360.0" x2="342.0" y2="360.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="342.0" y1="360.0" x2="270.0" y2="360.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="270.0" y1="360.0" x2="270.0" y2="369.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="270.0" y1="369.0" x2="252.0" y2="369.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="252.0" y1="369.0" x2="270.0" y2="369.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="270.0" y1="369.0" x2="270.0" y2="288.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="270.0" y1="288.0" x2="252.0" y2="288.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="252.0" y1="288.0" x2="270.0" y2="288.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="270.0" y1="288.0" x2="270.0" y2="171.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="270.0" y1="171.0" x2="108.0" y2="171.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="108.0" y1="171.0" x2="135.0" y2="171.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="135.0" y1="171.0" x2="135.0" y2="81.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="135.0" y1="81.0" x2="108.0" y2="81.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="495.0" y1="450.0" x2="477.0" y2="450.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="477.0" y1="450.0" x2="477.0" y2="477.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="477.0" y1="477.0" x2="666.0" y2="477.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="666.0" y1="477.0" x2="666.0" y2="216.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="666.0" y1="216.0" x2="702.0" y2="216.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="702.0" y1="216.0" x2="702.0" y2="189.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="702.0" y1="189.0" x2="684.0" y2="189.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="684.0" y1="189.0" x2="702.0" y2="189.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="702.0" y1="189.0" x2="702.0" y2="108.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="702.0" y1="108.0" x2="603.0" y2="108.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="603.0" y1="108.0" x2="603.0" y2="72.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="603.0" y1="72.0" x2="621.0" y2="72.0" stroke="#38424d" stroke-width="1.3" stroke-linecap="round" />
+</svg>

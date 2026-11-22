@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 390" width="1020" height="390" role="img" aria-labelledby="title desc">
+  <title id="title">Level Sketchの9 V・USB電源経路</title>
+  <desc id="desc">J3の中心はGND、外側は1N5819のアノードへ。帯側はUNOのVINへ接続する。UNO基板のレギュレーターとUSB給電切替を機能ブロックで示す。</desc>
+  <style>
+    text{font:15px 'Yu Gothic',Meiryo,sans-serif;fill:#213e32} .heading{font-size:22px;font-weight:bold}
+    .bold{font-weight:bold} .small{font-size:13px} .wire{fill:none;stroke:#315948;stroke-width:2.6;stroke-linejoin:round}
+    .node{fill:#315948}.box{fill:#f4f7eb;stroke:#738a75;stroke-width:1.5}.control{fill:none;stroke:#9a6033;stroke-width:2;stroke-dasharray:5 4}
+  </style>
+  <rect width="1020" height="390" fill="#fafbf5"/>
+  <text class="heading" x="30" y="36">9 V DC入力とUSB-B</text>
+  <rect x="395" y="64" width="410" height="262" rx="6" fill="#edf2e6" stroke="#9fae9b"/>
+  <text class="bold" x="412" y="90">UNO Rev3 基板内</text>
+  <text class="bold" x="30" y="105">J3 · ペダル用DCジャック</text>
+  <text x="30" y="145">外側　＋9 V</text><path class="wire" d="M144 140H223 M247 140H476"/>
+  <path d="M223 128L247 140L223 152Z" fill="#315948"/><path class="wire" d="M240 125H247V155H254"/>
+  <text class="small" x="200" y="109">D1 · 1N5819</text><text class="small" x="196" y="173">A　　 K（帯）</text>
+  <text x="30" y="207">中心　GND</text><path class="wire" d="M142 202H170V220 M157 220H183 M161 225H179 M166 230H174"/>
+  <text class="bold" x="413" y="132">VIN</text>
+  <rect class="box" x="476" y="116" width="156" height="48" rx="3"/><text text-anchor="middle" x="554" y="146">5 Vレギュレーター</text>
+  <path class="wire" d="M632 140H851 M758 140V237H676"/><circle class="node" cx="758" cy="140" r="4"/>
+  <text class="bold" x="865" y="144">5 V 系統</text><text class="small" x="865" y="165">UNO・液晶・測定部</text>
+  <path class="control" d="M452 144V187H603V214"/>
+  <text class="small" x="464" y="181">VINを比較して選択</text>
+  <rect class="box" x="525" y="214" width="151" height="46" rx="3"/><text text-anchor="middle" x="600" y="243">USB給電スイッチ</text>
+  <text class="bold" x="259" y="232">USB-B</text><text class="small" x="271" y="254">VBUS</text><path class="wire" d="M328 237H525"/>
+  <text class="small" x="271" y="297">D+ / D−</text><path class="wire" d="M335 292H526"/><text x="538" y="298">USBシリアル・書き込み</text>
+  <text class="small" x="30" y="362">電源と音声のGNDは共通。9 VはVINに入力し、液晶と信号回路はUNOの安定化電源から給電する。</text>
+</svg>

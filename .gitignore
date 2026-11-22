@@ -1,0 +1,14 @@
+# Editor files, measurements and build products
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+*.csv
+*.mp4
+*.hex
+*.elf
+/build/
+.env
+.env.*

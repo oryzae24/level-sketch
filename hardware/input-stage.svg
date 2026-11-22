@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 508" width="1000" height="508" role="img" aria-labelledby="t d">
+<title id="t">Level Sketch・測定部の回路</title><desc id="d">モノラル入力とTHRUは直結。100 kΩと100 nFを通して測定枝に分岐し、10 MΩで中点にバイアスする。MCP6002のB回路が測定波形、A回路が中点をバッファーする。</desc>
+<style>text{font:13px 'Yu Gothic',Meiryo,sans-serif;fill:#19382c}.h{font-size:17px;font-weight:700}.p{font:12px Consolas,monospace;fill:#446153}.n{font:700 15px Consolas,monospace;fill:#1f6651}.wire{fill:none;stroke:#245844;stroke-width:2.3;stroke-linecap:round;stroke-linejoin:round}.body{fill:#f5f7ef;stroke:#245844;stroke-width:2}.dot{fill:#245844}.rule{stroke:#c7d1c0}.gnd{fill:none;stroke:#245844;stroke-width:2}</style>
+<rect width="1000" height="508" fill="#fafbf5"/><text class="h" x="27" y="30">入力とA0</text>
+<text class="n" x="30" y="68">J1 TIP</text><path class="wire" d="M90 63H895"/><text class="n" x="903" y="68">J2 TIP</text><text x="430" y="55">演奏信号は直結</text>
+<circle class="dot" cx="106" cy="63" r="4"/><path class="wire" d="M106 63V152H139 M204 152H243 M250 152H430"/>
+<rect class="body" x="139" y="146" width="65" height="12"/><text x="139" y="136">R1　100 kΩ</text>
+<path class="wire" d="M243 136V167 M250 136V167"/><text x="218" y="125">C1　100 nF</text>
+<circle class="dot" cx="315" cy="152" r="4"/><path class="wire" d="M315 152V179 M315 224V249"/>
+<rect class="body" x="310" y="179" width="10" height="45"/><text x="328" y="209">R2　10 MΩ</text><text class="n" x="291" y="267">VMID</text>
+<path class="body" d="M430 127V217L510 172Z"/><text class="p" x="412" y="149">5</text><text x="435" y="156">+</text><text class="p" x="412" y="199">6</text><text x="435" y="201">−</text><text class="h" x="445" y="119">U1B</text>
+<path class="wire" d="M510 172H602 M547 172V233H393V195H430"/><circle class="dot" cx="547" cy="172" r="4"/><text class="p" x="518" y="164">7</text>
+<rect class="body" x="602" y="166" width="62" height="12"/><text x="590" y="153">R5　3.3 kΩ</text><path class="wire" d="M664 172H902 M770 172V208 M756 208H784 M756 215H784 M770 215V235"/><circle class="dot" cx="770" cy="172" r="4"/><text x="792" y="215">C4　15 nF</text>
+<path class="gnd" d="M758 235H782 M762 240H778 M766 245H774"/><text class="n" x="910" y="177">A0</text>
+<line class="rule" x1="26" y1="286" x2="974" y2="286"/><text class="h" x="27" y="315">中点・電源</text>
+<text class="n" x="43" y="346">+5 V</text><path class="wire" d="M91 340H110V349 M110 375V420 M110 446V459 M110 391H356"/><rect class="body" x="105" y="349" width="10" height="26"/><rect class="body" x="105" y="420" width="10" height="26"/><text x="125" y="366">R3　10 kΩ</text><text x="28" y="437">R4　10 kΩ</text><circle class="dot" cx="110" cy="391" r="4"/>
+<path class="gnd" d="M98 459H122 M102 464H118 M106 469H114"/>
+<path class="wire" d="M205 391V422 M191 422H219 M191 429H219 M205 429V459"/><circle class="dot" cx="205" cy="391" r="4"/>
+<text x="214" y="416">+</text><text x="226" y="435">C2　100 µF</text><path class="gnd" d="M193 459H217 M197 464H213 M201 469H209"/>
+<path class="body" d="M356 367V451L436 409Z"/><text class="p" x="336" y="386">3</text><text x="361" y="396">+</text><text class="p" x="336" y="432">2</text><text x="361" y="434">−</text><text class="h" x="376" y="355">U1A</text>
+<path class="wire" d="M436 409H535 M467 409V458H321V429H356"/><circle class="dot" cx="467" cy="409" r="4"/><text class="p" x="443" y="401">1</text><text class="n" x="542" y="413">VMID ≈ 2.5 V</text>
+<text class="p" x="708" y="345">MCP6002 · DIP-8</text><path class="wire" d="M733 367H870 M810 367V403 M796 403H824 M796 410H824 M810 410V450 M733 450H870"/>
+<text class="p" x="687" y="371">8 VDD</text><text class="p" x="687" y="454">4 VSS</text><text class="n" x="878" y="372">+5 V</text><text class="n" x="878" y="454">GND</text><text x="835" y="413">C3　100 nF</text>
+<text x="27" y="493">両ジャックのSLEEVEは共通GND。VMIDは測定回路内の基準で、ジャックには接続しない。</text>
+</svg>
